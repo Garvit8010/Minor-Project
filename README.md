@@ -1,1 +1,1 @@
-# Minor-Project Chat Application
+Chat Application
